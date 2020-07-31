@@ -13,7 +13,7 @@ BASKETCASE_fusion360.iges | Fusion 360 IGES export - NOT REQUIRED to build the c
 /pdf | PDF versions of the DXF vector files
 /photos | Photos of a BASKET CASE made from a water-jet cut street sign
 
-* All files have the units in their filename (centimeters). For help opening DXF files at the correct scale in Illustrator, see this handy video: https://www.youtube.com/watch?v=EimZ205O93M
+* All files have the units in their filename. For help opening DXF files at the correct scale in Illustrator, see this handy video: https://www.youtube.com/watch?v=EimZ205O93M
 
 
 ![Photo of assembled case](/photos/BASKETCASE_crosswalk_angle2.jpg)
